@@ -4,7 +4,7 @@ metadata:
   name: myapp
 spec:
   selector:
-    matchlabels:
+    matchLabels:
       app: myapp
   replicas: 1
   template:
